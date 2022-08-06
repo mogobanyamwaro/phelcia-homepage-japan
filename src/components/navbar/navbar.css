@@ -1,0 +1,17 @@
+.navbar {
+  background: linear-gradient(90.95deg, #490b38 12.84%, #da6d20 89.01%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Sniglet";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    font-size: 20px;
+    line-height: 40px;
+  }
+}

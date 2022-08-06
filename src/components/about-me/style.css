@@ -1,0 +1,27 @@
+.about__text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 22px;
+
+  color: #ffead9;
+}
+.about__me {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 30px;
+  /* identical to box height */
+
+  background: linear-gradient(180deg, #490b38 0%, #be3096 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.image__container {
+  width: 150px;
+  height: 150px;
+}
