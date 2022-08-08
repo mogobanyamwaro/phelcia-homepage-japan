@@ -16,11 +16,10 @@ function About() {
       <div className="md:w-3/4">
         {" "}
         <p className="text-sm about__text">
-          Hello there, my name is Susan Takatoh, an ambassador of natural health
-          and wellness. Through the work I do, I aim to change the world by
-          pushing for the use of sustainable and healthy products. You can be
-          part of this change by investing in our products. Would you like to
-          join me?
+          Hello there, my name is Susan an ambassador of natural health and
+          wellness. Through the work I do, I aim to change the world by pushing
+          for the use of sustainable and healthy products. You can be part of
+          this change by investing in our products. Would you like to join me?
         </p>
       </div>
     </div>
