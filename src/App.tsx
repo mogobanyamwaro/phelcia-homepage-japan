@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <CallToAction />
       <WhatWeDo />
-      <About />
+      {/* <About /> */}
       <Footer />
     </div>
   );

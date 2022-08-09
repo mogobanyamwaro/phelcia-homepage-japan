@@ -12,25 +12,19 @@ function WhatWeDo() {
       md:items-center md:mx-auto"
     >
       <div>
-        <h1 className=" what__we__do ">What we do</h1>
+        <h1 className=" what__we__do ">私たちの活動</h1>
         <p className="text-secondary what__we_do_text font-Poppins">
-          We are committed to help you address various health concerns by
-          investing in tried and tested health products. In addition, you can
-          attain financial freedom by choosing to live healthy. Sounds good?
-          Join us today and be an active participant in promoting all round
-          wellness
+          私たちは、皆さんが抱えもつあらゆる健康に関する状態を助けるために、入念な調査を実施し、テスト済みの健康商品を数多く取り揃えています。こちらの商品を選んでいただいた方が健康になるばかりではなく、実は、健康になろうと決意したその時から更に金銭的問題からも同時に解放されるのです。いかがでしょうか。興味を持たれた方は、私達と一緒にこのウエルネス商品の素晴らしさを広めましょう。
         </p>
       </div>
       <div className="my-3 md:my-0 md:pl-32">
         {" "}
         <button
           onClick={() =>
-            openInNewTab(
-              "https://secure.myqsciences.com/#/GA11748/Packs?type=1&language=en-us&countrycode=US"
-            )
+            openInNewTab("http://pageshop.myqsciences.com/GA11748")
           }
         >
-          Join Our Community
+          コミュニティーに参加する
         </button>
       </div>
     </div>
