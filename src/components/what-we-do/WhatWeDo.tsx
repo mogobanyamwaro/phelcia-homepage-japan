@@ -25,9 +25,7 @@ function WhatWeDo() {
         {" "}
         <button
           onClick={() =>
-            openInNewTab(
-              "https://secure.myqsciences.com/#/GA11748/Packs?type=1&language=en-us&countrycode=US"
-            )
+            openInNewTab("http://pageshop.myqsciences.com/GA11748")
           }
         >
           Join Our Community

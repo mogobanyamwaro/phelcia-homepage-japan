@@ -31,11 +31,28 @@ function CallToAction() {
         {" "}
         <button
           onClick={() =>
-            openInNewTab("https://shop.myqsciences.com/GA11748/Products?type=2")
+            openInNewTab("http://pageshop.myqsciences.com/GA11748")
           }
         >
           Shop Here
         </button>
+        <div className="pro_container">
+          <div className="pro__image">
+            <img src="/images/pro.png" alt="" />
+          </div>
+          <p className="pro__tip">
+            Pro Tip: Click above right for your country. Click{" "}
+            <small
+              onClick={() =>
+                openInNewTab("http://pageshop.myqsciences.com/GA11748")
+              }
+              className="text-purpleLight shop__button"
+            >
+              here
+            </small>{" "}
+            to go to shop
+          </p>
+        </div>
       </div>
     </div>
   );
