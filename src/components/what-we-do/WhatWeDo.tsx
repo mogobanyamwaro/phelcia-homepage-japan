@@ -28,7 +28,7 @@ function WhatWeDo() {
             openInNewTab("http://pageshop.myqsciences.com/GA11748")
           }
         >
-          Join Our Community
+          Start Your Own Shop
         </button>
       </div>
     </div>

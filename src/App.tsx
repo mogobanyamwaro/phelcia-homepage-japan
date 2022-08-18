@@ -6,6 +6,7 @@ import CallToAction from "./components/navbar/call-to-action/CallToAction";
 import WhatWeDo from "./components/what-we-do/WhatWeDo";
 import About from "./components/about-me/About";
 import Footer from "./components/footer/Footer";
+import Coaching from "./components/coaching/coaching";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <CallToAction />
       <WhatWeDo />
       <About />
+      <Coaching />
       <Footer />
     </div>
   );
