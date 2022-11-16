@@ -36,7 +36,7 @@ function CallToAction() {
         >
           Shop Here
         </button>
-        <div className="pro_container">
+        {/* <div className="pro_container">
           <div className="pro__image">
             <img src="/images/pro.png" alt="" />
           </div>
@@ -52,7 +52,7 @@ function CallToAction() {
             </small>{" "}
             to go to shop
           </p>
-        </div>
+        </div> */}
       </div>
     </div>
   );
