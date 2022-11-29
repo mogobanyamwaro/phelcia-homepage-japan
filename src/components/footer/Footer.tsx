@@ -20,7 +20,9 @@ function Footer() {
         </div>
         <div
           onClick={() =>
-            openInNewTab("https://www.facebook.com/Susan4selfcare")
+            openInNewTab(
+              "https://www.facebook.com/profile.php?id=100087218777911"
+            )
           }
           className="mr-5"
         >

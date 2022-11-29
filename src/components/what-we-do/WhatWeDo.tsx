@@ -25,7 +25,9 @@ function WhatWeDo() {
         {" "}
         <button
           onClick={() =>
-            openInNewTab("http://pageshop.myqsciences.com/GA11748")
+            openInNewTab(
+              "https://docs.google.com/forms/d/136q0kDiXOFaReyKAxqyvxadrJD9q4ve93dAxITDjmys/prefill"
+            )
           }
         >
           Start Your Own Shop

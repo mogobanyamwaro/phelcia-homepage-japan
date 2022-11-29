@@ -31,7 +31,9 @@ function CallToAction() {
         {" "}
         <button
           onClick={() =>
-            openInNewTab("http://pageshop.myqsciences.com/GA11748")
+            openInNewTab(
+              "https://docs.google.com/forms/d/1N-RVk9ID6pAcj3jsC7SAtHr14qQ-diUq_Prr9gr75PI/edit"
+            )
           }
         >
           Shop Here
